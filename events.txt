@@ -5,5 +5,5 @@ Venue: Quad
 
 Event 2
 Name: Tech fest
-Date: 31st October
+Date: 30th October
 Venue: Hall
