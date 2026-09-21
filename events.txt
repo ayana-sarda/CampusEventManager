@@ -1,4 +1,4 @@
-Event 1 - New
+Event 1
 Name: Enthusia
 Date: 21st November
 Venue: Quad
