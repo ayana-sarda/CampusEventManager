@@ -7,3 +7,5 @@ Event 2
 Name: Tech fest
 Date: 30th October
 Venue: Hall
+
+For further details contact the event managers
